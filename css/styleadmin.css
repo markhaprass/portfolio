@@ -1,0 +1,41 @@
+.jumbotron {
+    background: linear-gradient(0deg, rgb(0, 177, 195) 0%, rgb(164, 212, 160) 80%);
+    min-height: 600px;
+}
+
+.jumbotron img {
+    height: 200px;
+    margin-left: 55px;
+}
+.jumbotron h3 {
+    margin-left: 70px;
+    opacity: .9;
+}
+.jumbotron hr {
+    border-width: 5px;
+    width: 300px;
+    margin-left: 70px;
+}
+.jumbotron hr.link {
+    border-width: 5px;
+    width: 915px;
+    margin-left: 70px; 
+}
+.jumbotron p {
+    margin-left: 70px;
+}
+.jumbotron h5 {
+    margin-left: 70px;
+    opacity: .9;
+}
+.jumbotron button {
+    margin-left: 70px;
+    margin-top: 5px;
+}
+.jumbotron .row.kembali button {
+    margin-top: 20px;
+    margin-left: 90px;
+}
+footer {
+    min-height: 100px;
+}
